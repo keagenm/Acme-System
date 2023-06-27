@@ -12,7 +12,4 @@ public class HelloWorld {
 		System.out.println("Hey Now!");
 	}
 	
-	public String whatFor(String arg) {
-		return arg +", what for?";
-	}
 }
