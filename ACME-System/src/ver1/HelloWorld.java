@@ -8,4 +8,8 @@ public class HelloWorld {
 		System.out.println("Keagen is working locally on his branch");
 	}
 
+	public static void heyNow() {
+		System.out.println("Hey Now!");
+	}
+	
 }
