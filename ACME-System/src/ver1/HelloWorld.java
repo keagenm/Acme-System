@@ -15,4 +15,8 @@ public class HelloWorld {
 	public String whatFor(String arg) {
 		return arg +", what for?";
 	}
+	
+	public String whatFor2(String arg) {
+		return arg +", what for?";
+	}
 }
